@@ -397,4 +397,14 @@ SECCIÓN 14–9 Localización de fallas
 
 5. CONCLUSIONES
 
+-	Los inductores principalmente se dividen en inductores variables y fijos, no obstante, esta clasificación se considera ambigua, por lo que ahora si clasifican según su núcleo, entre los más utilizados se encuentran los inductores con núcleos de aire, hierro y ferrita.
+-	Para calcular la inductancia total en serie o LT, se debe sumar las inductancias individuales. Mientras tanto para calcular la inductancia total en paralelo o LT, se establece una formula donde el recíproco de la inductancia total es igual a la suma de los recíprocos de las inductancias individuales.
+-	Entre las principales características de un transformador no ideal están; resistencia de devanado: en este caso la resistencia resulta en menos voltaje a través de una carga secundaria. Pérdidas en el núcleo: las perdidas se dan en las conversiones de energía en el material del núcleo de un transformador práctico. Capacitancia de devanado: esto hace referencia a la existencia de la capacitancia parasitaria presente entre las vueltas adyacentes de un devanado. Por último, dispersión de flujo magnético: algunas líneas del flujo magnético se escapan del núcleo y pasan a través del aire circundante de regreso al otro extremo del devanado.
+
 6. BIBLIOGRAFÍA
+
+-	Floyd, T. (2007). Principios de circuitos eléctricos. Monterrey: Pearson.
+-	MecatrónicaLATAM. (28 de Abril de 2021). Obtenido de https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/inductor/
+-	Preciado, G., & Rodas, J. (28 de Julio de 2015). Obtenido de https://dspace.ups.edu.ec/bitstream/123456789/10657/1/UPS-GT001566.pdf
+-	Rela, A. (14 de Julio de 2020). Obtenido de http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a05-Inductancia.pdf 
+-	Tosatado, M. (23 de Marzo de 2009). Obtenido de http://www.mailxmail.com/curso-energia-centros-transformacion/transformadores-caracteristicas-generales
