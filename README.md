@@ -2,11 +2,49 @@
 
 1.1. OBJETIVO GENERAL
 
-
-
 1.2. OBJETIVOS ESPECÍFICOS
 
 2. MARCO TEÓRICO
+
+2.1. EL INDUCTOR BÁSICO
+
+![Mapas mentales con líneas (7)](https://user-images.githubusercontent.com/94008521/152909426-0cbfd2e5-277d-4bde-b03d-661516c76cf9.png)
+
+2.2. TIPOS DE INDUCTORES
+
+![Mapa conceptual (7)](https://user-images.githubusercontent.com/94008521/152909490-f0e9337b-5684-469e-ad32-bf57c8aca6a7.png)
+
+2.3. INDUCTORES EN SERIE Y PARALELO
+
+![Cuadro sinóptico en blanco (5)](https://user-images.githubusercontent.com/94008521/152909545-ead5041b-80c1-4b3c-9403-fe7464c20ea5.png)
+
+2.4. INDUCTORES EN CIRCUITOS DE CD
+
+![Mapas mentales con líneas (8)](https://user-images.githubusercontent.com/94008521/152909624-ccd8d752-b4cb-430a-8e5f-7a16e0fd3796.png)
+
+2.5. INDUCTORES EN CIRCUITOS DE CA
+
+![Mapas mentales con líneas (9)](https://user-images.githubusercontent.com/94008521/152909667-a09f2325-e7bf-4072-84b6-bb89852defaa.png)
+
+2.6. TRANSFORMADORES
+
+![Mapa conceptual (8)](https://user-images.githubusercontent.com/94008521/152909702-293dbf96-242d-4c8e-bfbf-da0d0f1e2a68.png)
+
+2.7. TRANSFORMADORES, ELEVADORES Y CONDUCTORES
+
+![Cuadro sinóptico en blanco (6)](https://user-images.githubusercontent.com/94008521/152909808-85632009-2b0c-44e6-a5ad-3ea88e51af22.png)
+
+2.8. CARGA DEL DEVANADO SECUNDARIO
+
+![Mapa conceptual (9)](https://user-images.githubusercontent.com/94008521/152909858-89de8d84-8c36-4cfd-83ef-34385541bb5d.png)
+
+2.9. CARGA REFLEJADA, IGUALACIÓN DE IMPEDANCIA
+
+![Mapa conceptual (10)](https://user-images.githubusercontent.com/94008521/152909921-8b55d34e-fec1-4ccf-bd33-0f99b7152781.png)
+
+2.10. CARACTERÍSTICAS DE UN TRANSFORMADOR NO IDEAL
+
+![Mapas mentales con líneas (10)](https://user-images.githubusercontent.com/94008521/152910017-017b4ff1-4bc8-4b7f-8c5a-516b7d4dafe3.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -348,8 +386,6 @@ SECCIÓN 14–9 Localización de fallas
 33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
 
 ![image](https://user-images.githubusercontent.com/93415377/152893657-19a13b96-417b-4a63-a51f-23894db0ab3c.png)
-
-
 
 4. VIDEO
 
