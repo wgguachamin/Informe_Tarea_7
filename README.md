@@ -358,6 +358,9 @@ SECCIÓN 14–7 Características de un transformador no idea
 
 23.Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
 
+![image](https://user-images.githubusercontent.com/93415377/152980619-b5fa91c9-7422-4fa6-847e-918d6fb4963d.png)
+
+
 25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2,5 kV?
 
 ![image](https://user-images.githubusercontent.com/93415377/152893366-d6080ac0-ac68-4b24-8839-b82572dc0dac.png)
