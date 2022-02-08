@@ -2,7 +2,13 @@
 
 1.1. OBJETIVO GENERAL
 
+Indagar con respecto inductores y transformadores, , mediante el análisis de los capítulos 13 y 14 del libro "Principios de circuitos eléctricos" de Thomas Floyd, con el fin de desarrollar correctamente los ejercicios planteados en ambos capítulos y aplicar los conocimientos adquiridos en clase.
+
 1.2. OBJETIVOS ESPECÍFICOS
+
+- Determinar en que forma se dividen los inductores.
+- Identificar como calcular la inductancia total en serie y en paralelo.
+- Enumerar las características de un transformador no ideal. 
 
 2. MARCO TEÓRICO
 
