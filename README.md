@@ -14,6 +14,7 @@
 CAPITULO 14
 
 SECCIÓN 14–1 Inductancia mutua
+
 1. ¿Cuál es la inductancia mutua cuando k = 0.75, L1 = 1 µH, y L2 = 4 µH?
 
 ![image](https://user-images.githubusercontent.com/93415377/152892944-3556113c-a09c-4398-b72c-0c167b67dfb7.png)
